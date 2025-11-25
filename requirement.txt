@@ -1,7 +1,8 @@
-streamlit
+streamlit==1.36.0
 langchain==0.1.20
-langchain-core==0.1.53
-langchain-google-genai==1.0.3
-google-generativeai==0.7.2
+langchain-community==0.0.34
+langchain_core==0.1.53
+langchain_google_genai==1.0.3
+google_generativeai==0.7.2
+python_dotenv
 protobuf==4.25.3
-python-dotenv
