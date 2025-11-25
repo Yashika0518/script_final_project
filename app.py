@@ -65,3 +65,5 @@ if st.button("🚀 Generate Script"):
             script = generate_script(user_input)
         st.success("✨ Script Ready!")
         st.text_area("📜 Your Generated Script", script, height=300)
+
+
